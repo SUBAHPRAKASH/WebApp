@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "efOj43XxP785JCDhozX7LJaEvT2NTOGX2Pm9BckQREqG0zF59rzzefBQB8+CRn+G1AY4WwbKNZUQ6j2aSckLsg==",
+  "success": true,
+  "projectFilePath": "E:\\Handson8\\MyFirstWebApp\\MyFirstWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NTPC14\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
